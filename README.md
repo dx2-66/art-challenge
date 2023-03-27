@@ -6,7 +6,7 @@ This was a wonderful opportunity to try and implement error correction code appr
 
 An elegant non-iterative self calibrating solution to probability estimates for such a classifier from [Reducing multiclass to binary by coupling probability estimates](https://proceedings.neurips.cc/paper/2001/file/abdbeb4d8dbe30df8430a8394b7218ef-Paper.pdf) by Bianca Zadrozny was used.
 
-This solution scored 5th place at https://codenrock.com/contests/masters-of-art
+This solution scored 4th place on a public test and 12th place on a private test at https://codenrock.com/contests/masters-of-arts#/
 
 
 **Units required:**
